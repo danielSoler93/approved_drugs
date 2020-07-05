@@ -1,6 +1,8 @@
 # approved_drugs
 Track hit to lead campaigns of all approved small molecules
 
+![Alt text](image.png?raw=true )
+
 
 ## List
 
@@ -14,4 +16,3 @@ Track hit to lead campaigns of all approved small molecules
  - glasdegib (Daurismo; Pfizer)
  
 
-![Alt text](image.png?raw=true )
