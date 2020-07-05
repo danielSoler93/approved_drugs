@@ -1,6 +1,4 @@
-# Erdafitinib
-
-Pipeline:
+# Erdafitinib Hit to Lead
 
 1) quinoxaline fragment
 
