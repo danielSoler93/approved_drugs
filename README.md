@@ -12,3 +12,6 @@ Track hit to lead campaigns of all approved small molecules
 ### 2018
 
  - glasdegib (Daurismo; Pfizer)
+ 
+
+![Alt text](image.png?raw=true )
