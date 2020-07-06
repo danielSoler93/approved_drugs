@@ -9,7 +9,9 @@ Track hit to lead campaigns of all approved small molecules
 ### 2019
 
  - alpelisib (Piqray; Novartis)
- - erdafitinib (Balversa; Janssen)
+ - erdafitinib (Balversa; Astex -> Janssen)
+ - darolutamide (Nubeqa; Orion -> Bayer) 
+ - fedratinib (Inrebic; TargeGen -> Sanofi -> Celgene)
 
 ### 2018
 
