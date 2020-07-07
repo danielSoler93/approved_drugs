@@ -13,6 +13,7 @@ Track hit to lead campaigns of all approved small molecules
  - darolutamide (Nubeqa; Orion -> Bayer) 
  - fedratinib (Inrebic; TargeGen -> Sanofi -> Celgene)
  - selinexor (Xpovio; Karyopharm Therapeutics)
+ - entrectinib (Rozlytrek; Roche)
 
 ### 2018
 
